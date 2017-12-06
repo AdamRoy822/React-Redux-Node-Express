@@ -19,7 +19,7 @@ Make sure you have installed all of the following prerequisites on your developm
 * PostgreSQL - [Download & Install PostgreSQL], I recommend to use PgAdmin.
 
 ```bash
-$ git clone https://github.com/DiegoAlves822/React-Redux-Node-Express-PostgreSQL.git
+$ git clone https://github.com/AdamRoy822/React-Redux-Node-Express-PostgreSQL.git
 ```
 ```bash
 $ npm install
